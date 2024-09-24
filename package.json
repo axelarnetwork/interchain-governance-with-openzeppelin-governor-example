@@ -1,0 +1,26 @@
+{
+  "name": "interchain-governance-with-openzeppelin-governor-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/interchain-governance-with-openzeppelin-governor-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/interchain-governance-with-openzeppelin-governor-example/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/interchain-governance-with-openzeppelin-governor-example#readme",
+  "devDependencies": {
+    "@axelar-network/axelar-gmp-sdk-solidity": "^5.10.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/contracts": "^4.9.0",
+    "hardhat": "^2.14.0"
+  }
+}
